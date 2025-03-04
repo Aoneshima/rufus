@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    font-family:'Golos text', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: #05030A;
+}
+
+header{
+    margin: 0;
+}
+
+.white-color-text{
+    color: #fff;
+}
+
+menu{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-decoration-line{
+    height: 1px;
+    width: 100%;
+    background-color: #FF6B00;
+    filter: drop-shadow(0 10px 18px);
+}
+
+.menu-decoration{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-interface{
+    display: flex;
+    gap: 80px;
+}
+
+.logo{
+    height: 20px;
+    width: 20px;
+    background-color: beige;
+    margin-left: 20px;
+}
+
+.menu-interface-nav{
+    display: flex;
+    gap: 80px;
+}
+
+.menu-interface-nav-a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu-interface-nav-a:hover{
+    color: #E29964;
+}
+
+.menu-player {
+    display: flex;  
+    align-items: center;
+    gap: 30px;
+    margin-right: 20px;
+}
+
+.menu-player-profile>img {
+    height: 35px;
+    max-width: 50px;
+}
+
+.menu-player-money {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.menu-player-money-all {
+    font-size: 24px;
+}
+
+.menu-player-money-symbol {
+    height: 15px;
+    width: 15px;
+    border-radius: 15px;
+    background-color: rgb(235, 235, 7);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.h1{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+}

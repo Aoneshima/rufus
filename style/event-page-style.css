@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    font-family:'Golos text', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: #05030A;
+}
+
+.white-color-text{
+    color: #fff;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #100F12;
+    padding: 20px;
+    align-items: center
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin: 0 115px;
+}
+
+.team-name {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+}
+
+.team-name-logo>img {
+    height: 183px;
+    max-width: 220px;
+    /* background-color: aquamarine; */
+}
+
+.team-name-text {
+    font-size: 24px;
+}
+
+.event-info {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+}
+
+.event-info-date {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.event-info-scores {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+
+.event-info-score {
+    height: 120px;
+    width: 90px;
+    background-color: #F3F3F3;
+    border-radius: 5px;
+}
+
+.event-info-colon {
+    font-size: 64px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.event-info-cup {
+    display: flex;
+    gap: 13px;
+    align-items: center;
+}
+
+.event-info-name-flag {
+    height: 25px;
+    width: 50px;
+    background-color: red;
+}
+
+.event-info-cup-name {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rates {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.rates-quantity {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+
+.rates-name {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.rates-pick {
+    display: flex;
+    gap: 25px;
+}
+
+.rate-pick {
+    display: flex;
+    gap: 94px;
+    background-color: #898989;
+    padding: 10px 15px;
+    border-radius: 2px;
+}
+
+.rate-pick:hover{
+    background-color: #E29964;
+}
+
+.rate-pick-text {
+    font-size: 20px;
+}
+
+/* button for event */
+
+.button-return{
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}

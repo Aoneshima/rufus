@@ -1,0 +1,136 @@
+{
+    "football": [
+    [
+        {
+            "name": "Ла Лига",
+            "imgleague": "img/flags/spain.png",
+            "idCategory": "LaLiga"
+        }
+    ],
+    [
+        {
+            "name": "АПЛ",
+            "imgleague": "img/flags/engled.png",
+            "idCategory": "APL"
+        }
+    ],
+    [
+        {
+            "name": "Лига 1",
+            "imgleague": "img/flags/france.png",
+            "idCategory": "Liga1"
+        }
+    ],
+    [
+        {
+            "name": "РПЛ",
+            "imgleague": "img/flags/russia.png",
+            "idCategory": "RPL"
+        },
+        {
+        "league": "РПЛ",
+        "imgleague": "",
+        "id": "01",
+        "team1": "Оренбург",
+        "team2": "Факел",
+        "team1Logo": "./img/RPL-team-logo/Orenburg.png",
+        "team2Logo": "./img/RPL-team-logo/Fakel.png",
+        "cfW1": "3.65",
+        "cfX": "3.54",
+        "cfW2": "2.05",
+        "timeDate": "15 марта 12:00"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "02",
+        "team1": "Химки",
+        "team2": "Ахмат",
+        "team1Logo": "./img/RPL-team-logo/Himki.png",
+        "team2Logo": "./img/RPL-team-logo/Ahmat.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "15 марта 14:30"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "03",
+        "team1": "Динамо Махачкала",
+        "team2": "Крылья Советов",
+        "team1Logo": "./img/RPL-team-logo/DinamoMahachkala.png",
+        "team2Logo": "img/RPL-team-logo/KriliaSovetov.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "15 марта 17:00"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "04",
+        "team1": "Локомотив",
+        "team2": "Динамо",
+        "team1Logo": "img/RPL-team-logo/Lokomotiv.png",
+        "team2Logo": "img/RPL-team-logo/Dinamo.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "15 марта 19:00"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "05",
+        "team1": "Акрон",
+        "team2": "ЦСКА",
+        "team1Logo": "img/RPL-team-logo/Akron.png",
+        "team2Logo": "img/RPL-team-logo/CSKA.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "16 марта 13:00"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "06",
+        "team1": "Рубин",
+        "team2": "Пари НН",
+        "team1Logo": "img/RPL-team-logo/Rubin.png",
+        "team2Logo": "img/RPL-team-logo/PariNizjniyNovgorod.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "16 марта 15:15"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "07",
+        "team1": "Ростов",
+        "team2": "Краснодар",
+        "team1Logo": "img/RPL-team-logo/Rostov.png",
+        "team2Logo": "img/RPL-team-logo/Krasnodar.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "16 марта 17:00"
+    },
+    {
+        "league": "РПЛ",
+        "imgleague": "url",
+        "id": "08",
+        "team1": "Спартак",
+        "team2": "Зенит",
+        "team1Logo": "img/RPL-team-logo/Spartak.png",
+        "team2Logo": "img/RPL-team-logo/Zenit.png",
+        "cfW1": "1.57",
+        "cfX": "4.28",
+        "cfW2": "5.81",
+        "timeDate": "16 марта 19:45"
+    }
+    ]
+    ]
+}
